@@ -31,6 +31,10 @@ Mostre sua gratidão àqueles que contribuíram para o projeto.
 ## Licença
 Para projetos de código aberto, diga como está licenciado.
 
+## Status do projeto
+Se você ficou sem energia ou tempo para o seu projeto, coloque uma nota no topo do README dizendo que o desenvolvimento foi desacelerado ou parou completamente. 
+
+
 
 
 
