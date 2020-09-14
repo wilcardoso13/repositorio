@@ -25,6 +25,10 @@ Se você tiver ideias para lançamentos no futuro, é uma boa ideia listá-los n
 Indique se você está aberto a contribuições e quais são seus requisitos para aceitá-las.
 Para as pessoas que desejam fazer alterações em seu projeto, é útil ter alguma documentação sobre como começar. Talvez haja um script que eles devam executar ou algumas variáveis de ambiente que eles precisem definir. Torne essas etapas explícitas. Essas instruções também podem ser úteis para o seu futuro eu.
 
+## Autores e reconhecimento
+Mostre sua gratidão àqueles que contribuíram para o projeto.
+
+
 
 
 
