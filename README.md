@@ -5,4 +5,5 @@ Estilizando um README.
 ## Distintivos
 Em alguns READMEs, você pode ver pequenas imagens que transmitem metadados, como se todos os testes estão passando ou não para o projeto. Você pode usar Shields para adicionar alguns ao seu README. Muitos serviços também possuem instruções para adicionar um crachá.
 
+![Programando](https://github.com/wilcardoso13/repositorio/blob/master/programando.gif)
 
