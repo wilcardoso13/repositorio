@@ -28,6 +28,10 @@ Para as pessoas que desejam fazer alterações em seu projeto, é útil ter algu
 ## Autores e reconhecimento
 Mostre sua gratidão àqueles que contribuíram para o projeto.
 
+## Licença
+Para projetos de código aberto, diga como está licenciado.
+
+
 
 
 
