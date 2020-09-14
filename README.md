@@ -1,7 +1,9 @@
 # Nome
 Estilizando um README.
+
 ## Descrição
 É legal que as pessoas saibam o que seu projeto irá fazer especificamente. Forneça contexto e adicione links para qualquer referência que os visitantes possam não estar familiarizados. Uma lista de recursos ou uma subseção (utilize H3) de plano de fundo também pode ser adicionada. 
+
 ## Distintivos
 Em alguns READMEs, você pode ver pequenas imagens que transmitem metadados, como se todos os testes estão passando ou não para o projeto. Você pode usar Shields para adicionar alguns ao seu README. Muitos serviços também possuem instruções para adicionar um crachá.
 
@@ -12,6 +14,10 @@ Considere a possibilidade de que quem está lendo seu README seja um novato e go
 
 ## Uso
 Use exemplos e mostre a saída esperada, se puder. É útil ter embutido o menor exemplo de uso que você pode demonstrar, enquanto fornece links para exemplos mais sofisticados se eles forem muito longos para serem incluídos no README.
+
+## Apoio e suporte
+Diga às pessoas onde podem pedir ajuda. Pode ser qualquer combinação de um rastreador de problemas, uma sala de chat, um endereço de e-mail, etc.
+
 
 
 
