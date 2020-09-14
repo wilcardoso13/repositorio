@@ -18,6 +18,10 @@ Use exemplos e mostre a saída esperada, se puder. É útil ter embutido o menor
 ## Apoio e suporte
 Diga às pessoas onde podem pedir ajuda. Pode ser qualquer combinação de um rastreador de problemas, uma sala de chat, um endereço de e-mail, etc.
 
+## Roteiro
+Se você tiver ideias para lançamentos no futuro, é uma boa ideia listá-los no README.
+
+
 
 
 
